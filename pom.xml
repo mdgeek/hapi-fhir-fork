@@ -503,7 +503,7 @@
 		<commons_lang3_version>3.8</commons_lang3_version>
 		<derby_version>10.14.2.0</derby_version>
 		<error_prone_annotations_version>2.0.18</error_prone_annotations_version>
-		<guava_version>25.0-jre</guava_version>
+		<guava_version>29.0-jre</guava_version>
 		<gson_version>2.8.5</gson_version>
 		<jaxb_bundle_version>2.2.11_1</jaxb_bundle_version>
 		<jaxb_api_version>2.3.0</jaxb_api_version>
