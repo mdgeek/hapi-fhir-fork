@@ -517,7 +517,7 @@
 		<!-- Update lucene version when you update hibernate-search version -->
 		<hibernate_search_version>5.10.3.Final</hibernate_search_version>
 		<httpcore_version>4.4.6</httpcore_version>
-		<httpclient_version>4.5.3</httpclient_version>
+		<httpclient_version>4.5.13</httpclient_version>
 		<lucene_version>5.5.5</lucene_version>
 		<maven_assembly_plugin_version>2.5.3</maven_assembly_plugin_version>
 		<maven_license_plugin_version>1.8</maven_license_plugin_version>
