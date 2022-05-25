@@ -528,7 +528,7 @@
 		<servicemix_saxon_version>9.5.1-5_1</servicemix_saxon_version>
 		<servicemix_xmlresolver_version>1.2_5</servicemix_xmlresolver_version>
 		<slf4j_version>1.7.25</slf4j_version>
-		<spring_version>5.0.8.RELEASE</spring_version>
+		<spring_version>5.2.22.RELEASE</spring_version>
 		<spring_data_version>2.0.7.RELEASE</spring_data_version>
 
 		<spring-boot.version>1.5.6.RELEASE</spring-boot.version>
